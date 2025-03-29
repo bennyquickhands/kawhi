@@ -18,7 +18,5 @@ h3 {
 .header { 
   width:1920px;
   height:540px; 
-  background-size: cover; /* Adjust the image size to cover the header */ 
-  background-position: center; /* Center the image */ 
 } 
 
