@@ -5,10 +5,14 @@ body {
     background:#fff;
     font-weight:12;
 }
-
+title{
+    font:Arial;
+    font-size:30px;
+}
 p {
     font-size:15px;
     color:#100;
+    font:Arial
 }
 
 h1 {
