@@ -12,7 +12,8 @@ title{
 p {
     font-size:15px;
     color:#100;
-    font:Arial
+    font:Arial;
+    text-align:center;
 }
 
 h1 {
