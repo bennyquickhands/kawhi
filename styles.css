@@ -19,7 +19,7 @@ h1 {
  
 h2 {
     font:Arial;
-    font-size:22px;
+    font-size:em;
 }
 
 header { 
