@@ -27,6 +27,7 @@ h1 {
 h2 {
     font:Arial;
     font-size:30px;
+    text-align: center;
 }
 
 header { 
@@ -34,7 +35,7 @@ header {
   height:540px; 
 } 
 table  {
-    
+  text-align: center;
 }
 th, td {
   border-bottom: 1px solid;
