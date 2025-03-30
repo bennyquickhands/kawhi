@@ -33,4 +33,10 @@ header {
   width:1920px;
   height:540px; 
 } 
-
+table  {
+    
+}
+th, td {
+  border-bottom: 1px solid;
+  text-align: center;
+}
